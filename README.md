@@ -1,6 +1,6 @@
 # DCGAN_ISM
 
-This is the work I did for my Independent Study and Mentorship Project. The code is very messy with unforunately very little documentation or comments so I suggest you to mainly take a look at the images folder which has a gif that shows the learning of my model over 100 epochs.
+This is the work I did for my Independent Study and Mentorship Project. The code is very messy with unforunately very little documentation or comments so I suggest you to mainly take a look at the DCGAN_ISM/Images folder which has a gif that shows the learning of my model over 100 epochs.
 
 The purpose of this project was to see if computers could generate unique car designs that further the design field by introducing new design methods to the field.
 
